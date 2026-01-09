@@ -1,0 +1,18 @@
+1. The system shall allow users to register using a valid institutional email address.
+2. The system shall authenticate users using encrypted credentials.
+3. The system shall allow users to reset their passwords securely.
+4. The system shall enforce role-based access control (RBAC).
+5. The system shall allow administrators to create student profiles.
+6. The system shall allow administrators to update student personal and academic information.
+7. The system shall allow administrators to delete student records when required.
+8. The system shall persist student records in a centralized database.
+9. The system shall allow lecturers to create and update course information.
+10. The system shall allow administrators to assign lecturers to courses.
+11. The system shall allow students to enrol in available courses.
+12. The system shall allow lecturers to submit grades for enrolled students.
+13. The system shall allow lecturers to update submitted grades before finalization.
+14. The system shall calculate grade point averages automatically.
+15. The system shall generate academic performance reports for students.
+16. The system shall generate reports in PDF format.
+17. The system shall notify students via email when grades are published.
+18. The system shall log report generation activities for audit purposes.

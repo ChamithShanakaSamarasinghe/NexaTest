@@ -1,0 +1,54 @@
+Requirement: The system shall allow users to register using a valid institutional email address.
+Features: User Management, Notification
+
+Requirement: The system shall authenticate users using encrypted credentials.
+Features: Authentication, Security, User Management
+
+Requirement: The system shall allow users to reset their passwords securely.
+Features: Authentication, Security, User Management
+
+Requirement: The system shall enforce role-based access control (RBAC).
+Features: Authorization
+
+Requirement: The system shall allow administrators to create student profiles.
+Features: User Management
+
+Requirement: The system shall allow administrators to update student personal and academic information.
+Features: User Management
+
+Requirement: The system shall allow administrators to delete student records when required.
+Features: User Management
+
+Requirement: The system shall persist student records in a centralized database.
+Features: User Management
+
+Requirement: The system shall allow lecturers to create and update course information.
+Features: User Management, Course Management
+
+Requirement: The system shall allow administrators to assign lecturers to courses.
+Features: User Management, Course Management
+
+Requirement: The system shall allow students to enrol in available courses.
+Features: User Management, Course Management
+
+Requirement: The system shall allow lecturers to submit grades for enrolled students.
+Features: User Management, Course Management, Grading
+
+Requirement: The system shall allow lecturers to update submitted grades before finalization.
+Features: User Management, Grading
+
+Requirement: The system shall calculate grade point averages automatically.
+Features: Grading
+
+Requirement: The system shall generate academic performance reports for students.
+Features: User Management, Reporting
+
+Requirement: The system shall generate reports in PDF format.
+Features: Reporting
+
+Requirement: The system shall notify students via email when grades are published.
+Features: User Management, Grading, Notification
+
+Requirement: The system shall log report generation activities for audit purposes.
+Features: Reporting, Audit & Logging
+

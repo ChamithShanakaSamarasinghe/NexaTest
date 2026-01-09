@@ -1,0 +1,28 @@
+4. Non-Functional Requirements
+4.1 Performance Requirements
+• The system shall respond to user requests within 2 seconds under normal operating
+conditions.
+• The system shall support concurrent access by at least 500 users.
+4.2 Security Requirements
+• The system shall encrypt sensitive data at rest and in transit.
+• The system shall log all authentication and authorization attempts.
+• The system shall restrict access to system resources based on user roles.
+4.3 Usability Requirements
+• The system shall provide a user-friendly interface.
+• The system shall be accessible to non-technical users.
+4.4 Reliability and Availability
+• The system shall maintain an uptime of 99%, excluding scheduled maintenance.
+• The system shall recover from failures without data loss.
+5. System Constraints
+• The system must be developed using web-based technologies.
+• The system must be hosted on Linux-based servers.
+• The system must comply with institutional data protection policies.
+6. Assumptions and Dependencies
+• It is assumed that users have continuous internet connectivity.
+• The system depends on third-party email services for notifications.
+• The system assumes availability of institutional authentication services.
+7. Future Enhancements
+Future versions of the system may include:
+• Mobile application support
+• Advanced analytics dashboards
+• Integration with learning management systems
